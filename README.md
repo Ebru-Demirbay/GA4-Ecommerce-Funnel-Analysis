@@ -22,3 +22,23 @@ This project aims to analyze user behavior across different funnel stages and an
 - What is the overall conversion rate from session to purchase?
 - Which traffic sources contribute the most to purchases?
 - How do user behaviors differ across devices and geographic locations?
+
+### 📂 Dataset
+
+The analysis uses the Google Analytics 4 (GA4) Public E-commerce Dataset available in Google BigQuery.
+
+The dataset contains event-level web analytics data that captures user interactions throughout the online shopping journey.
+
+Dataset details:
+- Source: Google BigQuery Public Dataset
+- Data type: GA4 event data
+- Analysis period: 92 days of e-commerce activity
+
+Key events analyzed:
+- session_start
+- view_item
+- add_to_cart
+- begin_checkout
+- add_shipping_info
+- add_payment_info
+- purchase
