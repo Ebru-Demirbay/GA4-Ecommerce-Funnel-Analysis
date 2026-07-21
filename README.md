@@ -24,7 +24,7 @@ This project aims to analyze user behavior across different funnel stages and an
 - How do user behaviors differ across devices and geographic locations?
   
 
-### 📂 Dataset
+## 📂 Dataset
 
 The analysis uses the Google Analytics 4 (GA4) Public E-commerce Dataset available in Google BigQuery.
 
@@ -45,7 +45,7 @@ Key events analyzed:
 - purchase
 
 
-#### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 The following tools and technologies were used throughout the project:
 
@@ -54,7 +54,7 @@ The following tools and technologies were used throughout the project:
 - **Tableau** – Interactive dashboard development and data visualization
 - **Google Analytics 4 (GA4) Dataset** – Source of e-commerce event data
 
-##### 🔍 Project Workflow
+## 🔍 Project Workflow
 
 The project followed a structured data analysis workflow:
 
