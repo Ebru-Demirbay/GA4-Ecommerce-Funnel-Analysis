@@ -97,3 +97,15 @@ The dashboard provides insights into:
 - User behavior across different devices and geographic segments
 
 Dashboard screenshots and Tableau visualizations will be added to this section.
+
+
+## 💡 Key Insights
+
+The analysis provided insights into customer behavior and conversion performance throughout the e-commerce funnel.
+
+Key findings include:
+
+- Identified the main drop-off points throughout the purchase journey.
+- Evaluated conversion rates between different funnel stages.
+- Analyzed how traffic sources and user segments influence purchasing behavior.
+- Compared user behavior across device categories and geographic locations.
