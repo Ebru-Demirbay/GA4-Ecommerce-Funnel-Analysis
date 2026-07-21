@@ -82,3 +82,18 @@ The project followed a structured data analysis workflow:
 
 5. **Dashboard Development**
    - Created an interactive Tableau dashboard to visualize funnel performance and user behavior across different segments.
+  
+
+## 📊 Dashboard
+
+An interactive Tableau dashboard was developed to visualize e-commerce funnel performance and user behavior.
+
+The dashboard provides insights into:
+
+- User progression through the purchase funnel
+- Conversion rates between funnel stages
+- Revenue performance
+- Traffic source analysis
+- User behavior across different devices and geographic segments
+
+Dashboard screenshots and Tableau visualizations will be added to this section.
