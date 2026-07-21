@@ -45,7 +45,7 @@ Key events analyzed:
 - purchase
 
 
-####🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 
 The following tools and technologies were used throughout the project:
 
