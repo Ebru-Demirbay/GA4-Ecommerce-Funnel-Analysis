@@ -109,3 +109,27 @@ Key findings include:
 - Evaluated conversion rates between different funnel stages.
 - Analyzed how traffic sources and user segments influence purchasing behavior.
 - Compared user behavior across device categories and geographic locations.
+
+
+## 📁 Repository Structure
+
+
+```text
+GA4-Ecommerce-Funnel-Analysis
+│
+├── SQL
+│   ├── Data preparation queries
+│   ├── Funnel analysis queries
+│   └── Conversion analysis queries
+│
+├── Dashboard
+│   └── Tableau dashboard files
+│
+├── Images
+│   └── Dashboard screenshots
+│
+├── Report
+│   └── Project documentation
+│
+└── README.md
+```
