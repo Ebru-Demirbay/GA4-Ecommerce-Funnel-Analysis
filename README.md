@@ -53,3 +53,32 @@ The following tools and technologies were used throughout the project:
 - **Google BigQuery** – Querying and processing the GA4 public dataset
 - **Tableau** – Interactive dashboard development and data visualization
 - **Google Analytics 4 (GA4) Dataset** – Source of e-commerce event data
+
+##### 🔍 Project Workflow
+
+The project followed a structured data analysis workflow:
+
+1. **Data Exploration**
+   - Explored the GA4 event-level dataset and identified relevant user interaction events.
+
+2. **Data Preparation**
+   - Processed raw event data using SQL in Google BigQuery.
+   - Created session-level analysis by combining user and session identifiers.
+   - Prepared the dataset required for funnel analysis.
+
+3. **Funnel Analysis**
+   - Built the e-commerce purchase funnel using key user journey events:
+     - session_start
+     - view_item
+     - add_to_cart
+     - begin_checkout
+     - add_shipping_info
+     - add_payment_info
+     - purchase
+
+4. **Conversion Analysis**
+   - Calculated conversion rates between funnel stages.
+   - Analyzed user drop-offs throughout the purchasing journey.
+
+5. **Dashboard Development**
+   - Created an interactive Tableau dashboard to visualize funnel performance and user behavior across different segments.
