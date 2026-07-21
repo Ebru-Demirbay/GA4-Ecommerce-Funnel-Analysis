@@ -43,3 +43,13 @@ Key events analyzed:
 - add_shipping_info
 - add_payment_info
 - purchase
+
+
+####🛠️ Tools & Technologies
+
+The following tools and technologies were used throughout the project:
+
+- **SQL** – Data extraction, transformation, and funnel analysis
+- **Google BigQuery** – Querying and processing the GA4 public dataset
+- **Tableau** – Interactive dashboard development and data visualization
+- **Google Analytics 4 (GA4) Dataset** – Source of e-commerce event data
