@@ -22,6 +22,7 @@ This project aims to analyze user behavior across different funnel stages and an
 - What is the overall conversion rate from session to purchase?
 - Which traffic sources contribute the most to purchases?
 - How do user behaviors differ across devices and geographic locations?
+  
 
 ### 📂 Dataset
 
