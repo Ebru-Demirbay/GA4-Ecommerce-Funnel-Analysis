@@ -1,6 +1,6 @@
-📊 GA4 E-commerce Funnel Analysis
+#📊 GA4 E-commerce Funnel Analysis
 
-# Project Overview
+## Project Overview
 
 This project analyzes the Google Analytics 4 (GA4) Public E-commerce Dataset to understand user behavior throughout the online purchase journey.
 
@@ -12,7 +12,7 @@ The results are presented through an interactive Tableau dashboard to provide ac
 
 
 
-## 🎯 Business Problem
+### 🎯 Business Problem
 
 E-commerce businesses need to understand how users move through the purchasing journey and identify the stages where potential customers leave the funnel.
 
@@ -24,7 +24,7 @@ This project aims to analyze user behavior across different funnel stages and an
 - How do user behaviors differ across devices and geographic locations?
   
 
-## 📂 Dataset
+### 📂 Dataset
 
 The analysis uses the Google Analytics 4 (GA4) Public E-commerce Dataset available in Google BigQuery.
 
@@ -45,7 +45,7 @@ Key events analyzed:
 - purchase
 
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 The following tools and technologies were used throughout the project:
 
@@ -54,7 +54,7 @@ The following tools and technologies were used throughout the project:
 - **Tableau** – Interactive dashboard development and data visualization
 - **Google Analytics 4 (GA4) Dataset** – Source of e-commerce event data
 
-## 🔍 Project Workflow
+### 🔍 Project Workflow
 
 The project followed a structured data analysis workflow:
 
@@ -84,7 +84,7 @@ The project followed a structured data analysis workflow:
    - Created an interactive Tableau dashboard to visualize funnel performance and user behavior across different segments.
   
 
-## 📊 Dashboard
+### 📊 Dashboard
 
 An interactive Tableau dashboard was developed to visualize e-commerce funnel performance and user behavior.
 
@@ -99,7 +99,7 @@ The dashboard provides insights into:
 Dashboard screenshots and Tableau visualizations will be added to this section.
 
 
-## 💡 Key Insights
+### 💡 Key Insights
 
 The analysis provided insights into customer behavior and conversion performance throughout the e-commerce funnel.
 
@@ -111,7 +111,7 @@ Key findings include:
 - Compared user behavior across device categories and geographic locations.
 
 
-## 📁 Repository Structure
+### 📁 Repository Structure
 
 
 ```text
