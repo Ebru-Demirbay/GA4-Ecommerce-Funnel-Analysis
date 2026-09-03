@@ -1,4 +1,4 @@
-#📊 GA4 E-commerce Funnel Analysis
+# 📊 GA4 E-commerce Funnel Analysis
 
 ## Project Overview
 
