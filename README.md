@@ -117,18 +117,17 @@ Key findings include:
 ```text
 GA4-Ecommerce-Funnel-Analysis
 │
-├── SQL
-│   ├── Data preparation queries
-│   ├── Funnel analysis queries
-│   └── Conversion analysis queries
+├── 01_SQL
+│   └── SQL analysis queries
 │
-├── Dashboard
-│   └── Tableau dashboard files
+├── 02_Dashboard
+│   ├── Calculated_Fields.md
+│   └── Dashboard_Link.md
 │
-├── Images
+├── 03_Images
 │   └── Dashboard screenshots
 │
-├── Report
+├── 04_Report
 │   └── Project documentation
 │
 └── README.md
