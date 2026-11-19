@@ -96,8 +96,9 @@ The dashboard provides insights into:
 - Traffic source analysis
 - User behavior across different devices and geographic segments
 
-Dashboard screenshots and Tableau visualizations will be added to this section.
+[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ebru.demirbay3105/viz/FinalProject_17737523516930/Dashboard1)
 
+For more details about the Tableau calculated fields, see [Calculated Fields](02_Dashboard/Calculated_Fields.md).
 
 ### 💡 Key Insights
 
