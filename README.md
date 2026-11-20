@@ -126,7 +126,7 @@ GA4-Ecommerce-Funnel-Analysis
 │   └── Dashboard_Link.md
 │
 ├── 03_Images
-│   └── Dashboard screenshots
+│   └── Dashboard images
 │
 ├── 04_Report
 │   └── Project documentation
