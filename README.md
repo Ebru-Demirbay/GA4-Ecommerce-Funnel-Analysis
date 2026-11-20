@@ -130,7 +130,7 @@ GA4-Ecommerce-Funnel-Analysis
 │   └── Dashboard images
 │
 ├── 04_Report
-│   └── Project documentation
+│   └── Project_Summary
 │
 └── README.md
 ```
