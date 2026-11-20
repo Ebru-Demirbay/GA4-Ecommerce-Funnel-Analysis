@@ -1,0 +1,51 @@
+# GA4 E-commerce Funnel Analysis – Project Summary
+
+## Project Objective
+
+The objective of this project is to analyze user behavior throughout the e-commerce purchase journey using Google Analytics 4 (GA4) event data. The analysis focuses on understanding funnel progression, identifying user drop-off points, and evaluating conversion performance.
+
+## Dataset
+
+The project uses the GA4 Public E-commerce Dataset available in Google BigQuery.
+
+- **Source:** Google BigQuery Public Dataset
+- **Analysis Period:** November 1, 2020 – January 31, 2021
+- **Duration:** 92 days
+- **Data Type:** Event-level e-commerce data
+
+## Analysis Process
+
+SQL queries were developed in Google BigQuery to prepare and analyze the event-level data.
+
+A session-level purchase funnel was created using the following events:
+
+1. `session_start`
+2. `view_item`
+3. `add_to_cart`
+4. `begin_checkout`
+5. `add_shipping_info`
+6. `add_payment_info`
+7. `purchase`
+
+Additional analyses explored traffic sources, device categories, operating systems, and geographic segments.
+
+## Dashboard
+
+An interactive dashboard was developed in Tableau Public to present the analysis results.
+
+The dashboard visualizes:
+
+- Purchase funnel progression
+- Conversion rates between funnel stages
+- Revenue performance
+- Traffic source performance
+- User behavior across devices and geographic segments
+
+**[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/ebru.demirbay3105/viz/FinalProject_17737523516930/Dashboard1)**
+
+## Tools & Technologies
+
+- SQL
+- Google BigQuery
+- Tableau Public
+- Google Analytics 4 Public Dataset
